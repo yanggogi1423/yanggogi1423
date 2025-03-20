@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=&fontSize=0" />
 
+### 안녕하세요.
+소프트웨어학을 전공하는 학부생입니다.
+게임 개발과 그래픽스, 웹 등 다양한 분야에 관심을 가지고 있습니다.
+
 <details>
 <summary>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Developable
