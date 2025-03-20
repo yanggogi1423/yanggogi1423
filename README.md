@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=게임 개발과 그래픽스, 웹 등 다양한 분야애 관심을 가지고 있습니다.&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=&fontSize=0" />
 
 ### Developable
 
