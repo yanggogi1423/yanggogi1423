@@ -51,7 +51,7 @@
 -->
 <br>
 
-<a email="yanggogi1423@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<a email="mailto:yanggogi1423@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 <a href="https://velog.io/@yanggogi1423/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 
 
