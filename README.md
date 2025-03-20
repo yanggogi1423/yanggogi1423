@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=header&text=&fontSize=0" />
 
 ### 안녕하세요.
 소프트웨어학을 전공하는 학부생입니다.
@@ -24,10 +24,9 @@
 <br>
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanggogi1423)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yanggogi1423)](https://github.com/eungyeole/velog-readme-stats)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer&text=&fontSize=0" />
