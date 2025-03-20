@@ -49,6 +49,7 @@
 <br>
 
 <a href="https://velog.io/@yanggogi1423/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yanggogi1423)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
