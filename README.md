@@ -47,8 +47,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanggogi1423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yanggogi1423)](https://github.com/eungyeole/velog-readme-stats)
-
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yanggogi1423)](https://github.com/eungyeole/velog-readme-stats)
+-->
 <br>
 
 <a href="yanggogi1423@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
