@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=80&section=header&text=capsule%20render&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=80&section=header&text=&fontSize=0" />
 
 ## 안녕하세요.
 소프트웨어학을 전공하는 학부생입니다.
