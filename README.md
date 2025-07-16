@@ -34,7 +34,8 @@
 </summary>
   <br>
     <div align="center">
-
+        
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 
 
