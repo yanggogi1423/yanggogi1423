@@ -60,30 +60,44 @@
 </div>
 </details>
 
-<br>
+<br><br>
 
 <hr style="border: none; height: 1px; background-color: #333; opacity: 0.3;">
 
+<br>
+
 <h4 align="center">Contact</h4>
+
+<br>
+
+<p align="center"><b>Personal</b></p>
 
 <div align="center">
 
 <a href="mailto:yanggogi1423@gmail.com">
-  <img src="https://img.shields.io/badge/Personal%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://velog.io/@yanggogi1423/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 </a>
 
+</div>
+
 <br>
 
+<p align="center"><b>Team · TeamHJD</b></p>
+
+<div align="center">
+
 <a href="mailto:teamhjd21@gmail.com">
-  <img src="https://img.shields.io/badge/TeamHJD%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://store.steampowered.com/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 
 </div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=90&section=footer&text=&fontSize=0" />
