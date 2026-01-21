@@ -54,11 +54,17 @@
 
 <div align="center">
 
+<!-- Language / Engine -->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
 
+<br>
+
+<!-- Graphics / Platform -->
+<img src="https://img.shields.io/badge/Direct3D%2011-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 </div>
-</details>
 
 <br><br>
 
