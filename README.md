@@ -70,6 +70,12 @@
 
 <br><br>
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="62.5%" loading = "lazy" />
+</div>
+
+<br><br>
+
 <hr style="border: none; height: 1px; background-color: #333; opacity: 0.3;">
 
 <br>
