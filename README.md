@@ -73,7 +73,7 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="62.5%" loading = "lazy" />
   <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=yanggogi1423&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=yanggogi1423&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanggogi1423&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
