@@ -5,7 +5,7 @@
 <p align="center">
   소프트웨어학을 전공하는 학부생이며,
   <b>게임 개발 · 그래픽스(Real-time Rendering)</b>를 중심으로 공부하고 있습니다.<br><br>
-  인디 게임 개발 팀인 <b>TeamHJD</b>의 Co-founder입니다.
+  인디 게임 개발 팀인 <b>TeamHJD</b>의 팀원입니다.
 </p>
 
 <br>
