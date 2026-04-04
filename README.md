@@ -1,20 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=90&section=header&text=&fontSize=0" />
 
-<h3 align="center">안녕하세요, 양현석입니다 👾</h3>
+<h3 align="center">Hi, I'm Hyunseok Yang 👾</h3>
 
 <p align="center">
-  소프트웨어학을 전공하는 학부생이며,
-  <b>게임 개발 · 그래픽스(Real-time Rendering)</b>를 중심으로 공부하고 있습니다.<br><br>
-  인디 게임 개발 팀인 <b>TeamHJD</b>의 팀원입니다.
+  Software Engineering undergraduate<br>
+  Focused on <b>Game Development · Real-time Rendering</b><br><br>
+</p>
+
+<p align="center">
+  <i>"Building game systems from low-level graphics to engine architecture"</i>
 </p>
 
 <br>
 
 <details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
-  Developable
-</summary>
+<summary>🚀 Tech Stack</summary>
 
 <br>
 
@@ -45,22 +45,17 @@
 <br>
 
 <details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Raised%20Eyebrow.png" alt="Face with Raised Eyebrow" width="25" height="25" />
-  Now Studying
-</summary>
+<summary>📚 Currently Learning</summary>
 
 <br>
 
 <div align="center">
 
-<!-- Language / Engine -->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
 
 <br>
 
-<!-- Graphics / Platform -->
 <img src="https://img.shields.io/badge/Direct3D%2011-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
@@ -68,13 +63,26 @@
 
 </details>
 
+<br>
+
+<details>
+<summary>💼 Experience</summary>
+
+<br>
+
+<ul>
+  <li><b>Sejong University</b> — B.S. in Software Engineering (2021 ~ )</li>
+  <li><b>Krafton Jungle - Game Tech Lab</b> (2026.03 ~ )</li>
+  <li><b>TeamHJD</b> — Indie Game Development Team (2025.12 ~ )</li>
+</ul>
+
+</details>
+
 <br><br>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="62.5%" loading = "lazy" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="62.5%" loading="lazy" />
   <br><br>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=yanggogi1423&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanggogi1423&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br><br>
