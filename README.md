@@ -72,7 +72,7 @@
 
 <ul>
   <li><b>Sejong University</b> — B.S. in Software Engineering (2021 ~ )</li>
-  <li><b>Krafton Jungle - Game Tech Lab</b> (2026.03 ~ )</li>
+  <li><b>Krafton Jungle - Game Tech Lab</b> (2026.03 ~ 2026.08)</li>
   <li><b>TeamHJD</b> — Indie Game Development Team (2025.12 ~ )</li>
 </ul>
 
