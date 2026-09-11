@@ -68,21 +68,28 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,lua&theme=dark" alt="C, C++, C#, Java, Lua" />
-
-`C · C++ · C# · Java · Lua`
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 
 ### Game & Graphics
 
-<img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" alt="Unity and Unreal Engine" />
-
-`DirectX 11 · OpenGL · HLSL · Win32 API`
+<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+<img src="https://img.shields.io/badge/DirectX%2011-107C10?style=flat-square&logo=windows&logoColor=white" alt="DirectX 11" />
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
+<img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="HLSL" />
+<img src="https://img.shields.io/badge/Win32%20API-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Win32 API" />
 
 ### Workflow
 
-<img src="https://skillicons.dev/icons?i=git,visualstudio&theme=dark" alt="Git and Visual Studio" />
-
-`Perforce · Rider · ImGui`
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" alt="Perforce" />
+<img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white" alt="Rider" />
+<img src="https://img.shields.io/badge/ImGui-4A56A8?style=flat-square&logoColor=white" alt="ImGui" />
 
 ---
 
