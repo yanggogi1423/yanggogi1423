@@ -86,7 +86,7 @@
 
 <p align="center">
   <b>TeamHJD</b><br><br>
-  <a href="mailto:teamhjd21@gmail.com"><img src="https://img.shields.io/badge/Team%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="TeamHJD email" /></a>
+  <a href="mailto:hyunseok@teamhjd.com"><img src="https://img.shields.io/badge/Team%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="TeamHJD email" /></a>
   <a href="https://store.steampowered.com/app/4336820/The_Developer/"><img src="https://img.shields.io/badge/The%20Developer-Coming%20Soon-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="The Developer on Steam, coming soon" /></a>
 </p>
 
