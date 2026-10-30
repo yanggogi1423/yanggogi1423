@@ -7,7 +7,7 @@
 <p align="center"><sub>I care about the systems behind responsive play and the tools that make worlds easier to build.</sub></p>
 
 <p align="center">
-  <a href="https://anyanyang.notion.site/2e9c8404c9328051ab45c80805366ec1?pvs=74"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio.teamhjd.com/hyunseok/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/yanggogi1423"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://velog.io/@yanggogi1423/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" /></a>
   <a href="https://yanggogi1423.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" /></a>
